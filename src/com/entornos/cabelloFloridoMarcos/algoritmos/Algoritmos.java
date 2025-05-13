@@ -1,5 +1,4 @@
-package com.entornos.nombreCompleto.algoritmos;
-
+package com.entornos.cabelloFloridoMarcos.algoritmos;
 public abstract class Algoritmos {
 		
 	    /**

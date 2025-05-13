@@ -1,4 +1,4 @@
-package com.entornos.nombreCompleto.algoritmos;
+package com.entornos.cabelloFloridoMarcos.algoritmos;
 
 import static org.junit.jupiter.api.Assertions.*;
 

@@ -1,4 +1,4 @@
-package com.entornos.nombreCompleto.algoritmos;
+package com.entornos.cabelloFloridoMarcos.algoritmos;
 
 public class Principal {
 
