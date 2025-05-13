@@ -32,5 +32,22 @@ public abstract class Algoritmos {
 	        }
 	        return b;
 	    }
+		
+		/**
+	     * Calcula el factorial de un numero que recibimos.
+	     * @param numero numero entero
+	     * @return el factorial del numero recibido
+	     * @throws IllegalArgumentException si el numero es menor que 0
+	     */
+	    public static int factorial(int numero) {
+	        if (numero < 0) {
+	            throw new IllegalArgumentException("El número no puede ser negativo");
+	        }
+	        int resultado = 1;
+	        for (int i = 2; i <= numero; i++) {
+	            resultado *= i;
+	        }
+	        return resultado;
+	    }
 
 }
